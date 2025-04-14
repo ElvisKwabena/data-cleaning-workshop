@@ -1,0 +1,201 @@
+Student_ID,Name,Email,Age,Gender,Level,Program,GPA,Sleep_Hours,Study_Hours,Attendance_Rate,Clubs,Graduation_Eligible,Phone
+UG1000,Esi Nkrumah,student0@ug.edu.gh,24,Female,100,Mathematics,2.88,9,7,86.13,Drama Club,Yes,0504307013
+UG1001,Akosua Annan,student1@ug.edu.gh,20,Male,200,Actuarial Science,3.41,,2,73.29,Coding,Y,0503739340
+UG1002,Akosua Nkrumah,student2@ug.edu.gh,27,F,300,Mathematics,3.45,,2,81.7,Coding,no,0508435420
+UG1003,Kwame Asare,student3@ug.edu.gh,17,Other,300,Actuarial Science,3.05,5,7,79.73,Debate,N,0506236692
+UG1004,Esi Boateng,student4@ug.edu.gh,24,F,100,Mathematics,2.56,6,7,63.26,None,no,0501549012
+UG1005,Yaw Owusu,student5@ug.edu.gh,20,F,100,Computer Science,3.14,5,1,76.13,Football,No,0502715844
+UG1006,Akosua Annan,student6@ug.edu.gh,22,Female,200,Computer Science,3.08,8,7,68.82,Coding,Y,0501082783
+UG1007,Abena Annan,student7@ug.edu.gh,24,Other,200,Computer Science,3.28,7,0,76.74,Debate,N,0504030136
+UG1008,Akosua Annan,student8@ug.edu.gh,20,F,300,Computer Science,2.56,6,5,68.14,Drama Club,no,0501611276
+UG1009,Akosua Asare,student9@ug.edu.gh,19,Male,400,Statistics,2.8,5,7,93.62,Drama,Yes,
+UG1010,Abena Asare,,25,Male,300,Computer Science,3.25,9,2,66.97,Coding Club,No,0506269976
+UG1011,Kofi Boateng,student11@ug.edu.gh,19,M,100,Economics,3.62,6,7,98.43,Coding Club,Y,0506397856
+UG1012,Kwame Nkrumah,student12@ug.edu.gh,25,Other,300,Economics,3.48,6,0,76.64,Football,No,0509939708
+UG1013,Kofi Nkrumah,student13@ug.edu.gh,18,Other,400,Statistics,3.04,5,,93.85,Coding,Yes,0506610437
+UG1014,Yaw Mensah,student14@ug.edu.gh,18,M,200,Computer Science,2.76,6,,85.15,Coding Club,Y,0505553683
+UG1015,Yaw Mensah,student15@ug.edu.gh,18,F,400,Computer Science,3.2,9,4,89.41,None,No,0504590560
+UG1016,Abena Nkrumah,student16@ug.edu.gh,22,Other,400,Computer Science,2.45,,3,90.71,Coding Club,yes,0509138307
+UG1017,Kwame Nkrumah,student17@ug.edu.gh,19,Male,400,Mathematics,2.59,6,5,80.19,Coding Club,Yes,
+UG1018,Akosua Annan,student18@ug.edu.gh,25,Male,200,Actuarial Science,3.75,,6,81.73,Coding Club,Yes,0502251747
+UG1019,Abena Boateng,student19@ug.edu.gh,20,Female,400,Mathematics,3.2,9,4,80.56,Debate,Yes,0505965826
+UG1020,Abena Mensah,student20@ug.edu.gh,17,Other,400,Actuarial Science,2.83,5,,83.52,Coding,yes,0505943350
+UG1021,Kofi Boateng,student21@ug.edu.gh,20,F,400,Computer Science,3.41,7,2,61.18,None,yes,0503828394
+UG1022,Kojo Boateng,student22@ug.edu.gh,17,M,100,Computer Science,3.64,6,6,75.82,Coding,no,0504605030
+UG1023,Esi Asare,student23@ug.edu.gh,21,M,400,Mathematics,2.78,7,4,84.25,Football,N,
+UG1024,Yaw Owusu,student24@ug.edu.gh,20,F,200,Mathematics,2.79,9,6,83.91,Football,No,
+UG1025,Kwame Owusu,student25@ug.edu.gh,24,female,400,Actuarial Science,2.72,6,1,91.72,Football,no,0507561825
+UG1026,Kojo Mensah,student26@ug.edu.gh,24,Female,400,Economics,3.48,,3,86.2,Drama Club,No,
+UG1027,Akosua Mensah,student27@ug.edu.gh,23,M,200,Actuarial Science,3.49,8,1,99.69,Coding Club,N,
+UG1028,Ama Nkrumah,student28@ug.edu.gh,19,Other,400,Mathematics,3.69,7,6,71.35,Drama Club,yes,
+UG1029,Abena Nkrumah,,17,Female,200,Mathematics,3.5,6,1,74.37,Debate,N,0504289484
+UG1030,Abena Nkrumah,student30@ug.edu.gh,17,Other,400,Statistics,2.18,7,0,75.35,Football,yes,0507784028
+UG1031,Yaw Nkrumah,student31@ug.edu.gh,27,Male,200,Mathematics,3.14,6,,78.63,None,N,0509720687
+UG1032,Ama Asare,student32@ug.edu.gh,19,Female,400,Statistics,2.47,5,0,93.44,Coding,no,0502462199
+UG1033,Abena Owusu,student33@ug.edu.gh,22,M,400,Economics,2.74,,7,69.43,Coding Club,Y,0504543492
+UG1034,Akosua Owusu,student34@ug.edu.gh,23,Female,100,Actuarial Science,3.09,7,1,91.04,Drama,no,0507355029
+UG1035,Kwame Nkrumah,student35@ug.edu.gh,22,Female,100,Actuarial Science,3.42,8,7,76.21,None,No,0507715646
+UG1036,Ama Nkrumah,student36@ug.edu.gh,22,Female,400,Statistics,2.55,8,2,84.07,Coding Club,no,0508644861
+UG1037,Yaw Annan,student37@ug.edu.gh,22,female,400,Actuarial Science,1.84,9,5,85.3,Drama Club,Yes,0501242124
+UG1038,Kofi Boateng,student38@ug.edu.gh,19,Female,300,Mathematics,3.09,6,2,74.91,Drama Club,No,
+UG1039,Abena Mensah,student39@ug.edu.gh,22,Other,200,Computer Science,4.32,7,6,80.5,None,N,0509544942
+UG1040,Akosua Boateng,student40@ug.edu.gh,24,Male,300,Statistics,2.9,9,,76.52,Drama Club,No,0501776180
+UG1041,Esi Mensah,student41@ug.edu.gh,27,F,100,Actuarial Science,3.02,7,1,62.77,Football,Y,0508035415
+UG1042,Kojo Annan,,27,Female,100,Statistics,3.89,6,4,77.49,Debate,yes,
+UG1043,Kojo Annan,student43@ug.edu.gh,18,M,100,Statistics,3.3,8,5,63.9,Coding,N,
+UG1044,Yaw Boateng,student44@ug.edu.gh,21,Female,100,Computer Science,3.11,5,3,76.2,Debate,No,0509476423
+UG1045,Kojo Boateng,student45@ug.edu.gh,17,M,400,Mathematics,3.22,8,3,83.72,Coding Club,N,0507680122
+UG1046,Abena Annan,student46@ug.edu.gh,17,Other,100,Statistics,3.13,9,3,83.18,Coding,N,0509591347
+UG1047,Kofi Mensah,student47@ug.edu.gh,21,M,400,Actuarial Science,2.43,,1,86.5,Coding,N,0503890678
+UG1048,Yaw Mensah,student48@ug.edu.gh,19,F,400,Economics,2.33,5,3,63.81,Debate,yes,0509588784
+UG1049,Kojo Annan,student49@ug.edu.gh,20,Male,100,Statistics,3.94,9,0,86.08,None,no,0504947572
+UG1050,Kwame Annan,student50@ug.edu.gh,19,M,100,Statistics,3.09,6,5,72.49,Coding,N,0502427909
+UG1051,Abena Boateng,student51@ug.edu.gh,17,M,200,Computer Science,3.05,5,0,75.96,Debate,Yes,0501513285
+UG1052,Kojo Annan,student52@ug.edu.gh,17,Male,300,Mathematics,2.95,9,5,94.32,Coding,Y,0501460966
+UG1053,Yaw Nkrumah,student53@ug.edu.gh,21,F,100,Economics,3.39,6,0,60.36,Drama,yes,0509436241
+UG1054,Esi Nkrumah,student54@ug.edu.gh,22,Female,200,Actuarial Science,4.27,8,5,83.54,None,No,0504067259
+UG1055,Abena Annan,student55@ug.edu.gh,19,M,200,Economics,3.26,,7,83.95,Football,yes,
+UG1056,Yaw Nkrumah,student56@ug.edu.gh,25,Male,300,Actuarial Science,2.71,6,1,75.87,Coding,No,0501822797
+UG1057,Esi Nkrumah,student57@ug.edu.gh,21,Other,400,Mathematics,2.93,7,1,69.48,Drama,yes,0508735397
+UG1058,Kwame Annan,,24,Male,100,Actuarial Science,3.54,6,3,69.39,Football,No,0501427296
+UG1059,Kofi Owusu,student59@ug.edu.gh,17,Other,300,Computer Science,2.71,6,2,95.35,Football,N,0503835795
+UG1060,Ama Nkrumah,student60@ug.edu.gh,21,F,100,Computer Science,3.43,,3,77.68,Coding Club,no,0507812860
+UG1061,Kojo Owusu,student61@ug.edu.gh,19,Female,200,Computer Science,1.84,7,6,73.24,Coding,No,0503596673
+UG1062,Abena Mensah,student62@ug.edu.gh,17,Male,200,Computer Science,2.89,9,0,77.95,Debate,No,0501284354
+UG1063,Yaw Nkrumah,student63@ug.edu.gh,20,female,400,Economics,3.31,9,5,86.78,Coding,Yes,0504698647
+UG1064,Kofi Owusu,student64@ug.edu.gh,21,M,200,Mathematics,3.64,6,2,65.83,Drama,No,0505434146
+UG1065,Yaw Asare,student65@ug.edu.gh,23,F,200,Actuarial Science,2.59,7,6,77.98,Football,Yes,0504241160
+UG1066,Akosua Owusu,student66@ug.edu.gh,17,Male,300,Actuarial Science,2.25,7,1,83.52,Coding,Y,0504403364
+UG1067,Ama Boateng,student67@ug.edu.gh,19,M,100,Computer Science,2.87,,1,97.94,Debate,N,0504411744
+UG1068,Esi Boateng,student68@ug.edu.gh,18,Male,100,Computer Science,2.44,8,3,70.1,Coding Club,Yes,0506385847
+UG1069,Yaw Mensah,student69@ug.edu.gh,25,Other,300,Statistics,2.93,9,0,74.37,Coding,no,0505269704
+UG1070,Kwame Mensah,student70@ug.edu.gh,26,Male,400,Mathematics,3.0,,2,75.17,None,N,0506105410
+UG1071,Yaw Owusu,student71@ug.edu.gh,22,female,100,Economics,2.34,5,,84.22,Coding Club,Yes,0508536495
+UG1072,Yaw Owusu,,26,Male,200,Actuarial Science,3.4,9,6,74.27,Debate,N,0508336062
+UG1073,Esi Annan,student73@ug.edu.gh,19,Male,100,Statistics,2.92,,6,81.34,Drama,N,0504329214
+UG1074,Abena Asare,student74@ug.edu.gh,24,female,200,Statistics,3.54,9,3,91.27,Football,N,0506974065
+UG1075,Kojo Owusu,student75@ug.edu.gh,24,F,400,Actuarial Science,2.08,8,1,88.22,Coding,Y,0506835270
+UG1076,Yaw Boateng,student76@ug.edu.gh,18,Male,300,Economics,2.49,5,3,77.85,Debate,no,0506011798
+UG1077,Abena Mensah,student77@ug.edu.gh,22,female,100,Statistics,3.26,8,5,94.57,Coding Club,yes,0507467059
+UG1078,Yaw Annan,student78@ug.edu.gh,23,M,300,Statistics,2.6,5,2,82.33,None,yes,0509364405
+UG1079,Yaw Asare,student79@ug.edu.gh,18,Other,100,Mathematics,2.92,6,0,81.6,Debate,Yes,0504982056
+UG1080,Akosua Mensah,student80@ug.edu.gh,27,Other,200,Economics,3.0,,7,61.37,Drama Club,N,0509879033
+UG1081,Kojo Mensah,student81@ug.edu.gh,26,Male,300,Statistics,3.08,5,4,99.47,None,Yes,0505788005
+UG1082,Yaw Boateng,student82@ug.edu.gh,18,F,100,Economics,2.66,8,4,64.92,Coding Club,Y,0501717680
+UG1083,Abena Nkrumah,student83@ug.edu.gh,26,F,200,Actuarial Science,3.07,9,3,69.25,Drama,Y,0507701166
+UG1084,Kofi Annan,student84@ug.edu.gh,17,M,300,Computer Science,2.61,5,5,62.07,Football,No,0508765688
+UG1085,Kwame Annan,student85@ug.edu.gh,24,Male,300,Statistics,3.34,,2,85.6,Coding Club,Y,0509186033
+UG1086,Kojo Boateng,student86@ug.edu.gh,17,Other,100,Mathematics,2.94,5,,68.99,Drama,No,0506814799
+UG1087,Yaw Mensah,student87@ug.edu.gh,25,F,100,Actuarial Science,3.08,7,4,67.2,Coding,no,0505804923
+UG1088,Abena Mensah,student88@ug.edu.gh,27,Male,100,Economics,4.28,9,2,63.54,Debate,Yes,0509859478
+UG1089,Kwame Asare,student89@ug.edu.gh,22,F,200,Actuarial Science,2.45,,0,64.13,Drama Club,no,0506832157
+UG1090,Akosua Boateng,student90@ug.edu.gh,23,female,100,Statistics,3.69,,5,83.39,None,Y,0507058298
+UG1091,Kofi Annan,student91@ug.edu.gh,26,F,300,Economics,1.67,6,1,87.53,None,no,0501376644
+UG1092,Yaw Asare,student92@ug.edu.gh,23,Other,300,Computer Science,1.96,8,2,75.9,Debate,no,0509822034
+UG1093,Kojo Boateng,student93@ug.edu.gh,26,Female,100,Actuarial Science,2.38,6,0,79.2,Drama Club,no,0501220798
+UG1094,Esi Nkrumah,student94@ug.edu.gh,19,M,100,Statistics,2.41,,,87.44,Debate,Y,0508178407
+UG1095,Yaw Mensah,student95@ug.edu.gh,18,M,400,Mathematics,3.1,9,7,60.7,Coding,N,
+UG1096,Kojo Boateng,student96@ug.edu.gh,25,Other,300,Economics,3.14,5,1,72.93,Drama,no,0508431420
+UG1097,Kojo Owusu,student97@ug.edu.gh,24,F,200,Actuarial Science,2.87,5,7,98.92,Coding Club,No,0504469047
+UG1098,Ama Nkrumah,,26,Male,400,Actuarial Science,2.93,9,,83.2,None,Y,0502385372
+UG1099,Kwame Owusu,student99@ug.edu.gh,23,F,100,Computer Science,3.26,,0,70.17,Coding,no,0508488515
+UG1100,Yaw Boateng,,25,Other,100,Computer Science,3.42,5,4,80.87,Drama,N,0503090242
+UG1101,Kwame Owusu,student101@ug.edu.gh,20,M,300,Mathematics,2.34,5,7,73.71,Coding,Y,0508376936
+UG1102,Abena Annan,student102@ug.edu.gh,20,F,100,Mathematics,2.82,5,1,81.29,Drama Club,yes,0504643948
+UG1103,Kojo Nkrumah,student103@ug.edu.gh,17,M,200,Statistics,2.97,8,3,65.03,None,N,0504403091
+UG1104,Abena Asare,student104@ug.edu.gh,24,Male,300,Statistics,3.24,8,6,65.31,Coding Club,No,0506001638
+UG1105,Akosua Boateng,student105@ug.edu.gh,19,M,100,Mathematics,2.61,7,2,65.74,Debate,no,0508430656
+UG1106,Kwame Nkrumah,student106@ug.edu.gh,23,M,300,Mathematics,2.96,6,4,97.59,Debate,yes,0503916903
+UG1107,Kofi Asare,student107@ug.edu.gh,18,Female,100,Economics,3.01,9,7,89.32,Drama,yes,0504137705
+UG1108,Kofi Annan,student108@ug.edu.gh,18,Female,100,Computer Science,2.65,9,2,66.5,Coding Club,Y,0501559136
+UG1109,Ama Boateng,student109@ug.edu.gh,23,female,100,Statistics,2.64,9,3,67.53,Football,yes,0507893836
+UG1110,Kwame Owusu,student110@ug.edu.gh,22,Female,200,Computer Science,3.05,7,,89.23,Drama Club,No,0509073742
+UG1111,Ama Asare,student111@ug.edu.gh,19,M,200,Computer Science,2.93,8,6,66.25,Drama,No,0508519521
+UG1112,Abena Owusu,student112@ug.edu.gh,25,Other,300,Mathematics,3.25,,0,69.38,Football,Yes,0503651715
+UG1113,Akosua Owusu,student113@ug.edu.gh,26,M,100,Economics,2.47,,3,98.53,Coding,No,0505035434
+UG1114,Ama Owusu,student114@ug.edu.gh,22,Other,100,Actuarial Science,2.82,7,3,70.21,Drama Club,N,0506817065
+UG1115,Kwame Asare,student115@ug.edu.gh,26,Other,200,Economics,2.89,,,86.47,Coding,yes,
+UG1116,Abena Boateng,student116@ug.edu.gh,26,Female,100,Economics,3.41,9,5,99.15,Coding Club,No,0507714331
+UG1117,Kwame Nkrumah,student117@ug.edu.gh,22,F,200,Computer Science,2.53,6,,74.97,None,Y,0501176704
+UG1118,Kwame Annan,student118@ug.edu.gh,17,Male,100,Economics,3.12,5,5,60.7,Drama Club,Yes,0507735638
+UG1119,Kwame Mensah,student119@ug.edu.gh,20,Female,300,Statistics,3.13,8,5,69.77,Football,yes,
+UG1120,Ama Nkrumah,student120@ug.edu.gh,26,Female,100,Computer Science,3.82,8,4,93.24,None,Yes,0508453065
+UG1121,Esi Asare,student121@ug.edu.gh,22,F,100,Statistics,2.5,7,4,94.58,Debate,yes,0506036211
+UG1122,Ama Nkrumah,student122@ug.edu.gh,22,Male,400,Actuarial Science,2.67,8,1,90.74,Football,Y,0509499912
+UG1123,Abena Nkrumah,student123@ug.edu.gh,27,M,200,Computer Science,2.53,9,7,64.52,Drama,Yes,0502215099
+UG1124,Kojo Nkrumah,student124@ug.edu.gh,21,female,100,Actuarial Science,2.17,,7,91.82,Debate,no,0501223186
+UG1125,Kojo Annan,student125@ug.edu.gh,17,female,100,Computer Science,3.88,9,0,96.75,Debate,N,0506273338
+UG1126,Yaw Annan,student126@ug.edu.gh,24,M,400,Mathematics,2.38,7,7,84.02,Drama,N,0509027012
+UG1127,Ama Asare,student127@ug.edu.gh,21,Female,400,Economics,2.59,9,4,97.64,Drama Club,yes,0503387409
+UG1128,Yaw Annan,,21,Male,200,Mathematics,3.66,,1,93.07,Debate,no,0506028940
+UG1129,Akosua Owusu,student129@ug.edu.gh,23,Female,400,Actuarial Science,2.12,6,1,86.68,Coding Club,Yes,0509139808
+UG1130,Akosua Nkrumah,student130@ug.edu.gh,20,Other,300,Economics,3.38,7,5,83.09,Football,no,
+UG1131,Ama Mensah,student131@ug.edu.gh,22,Female,400,Computer Science,2.29,6,,73.94,None,no,0506637572
+UG1132,Yaw Mensah,student132@ug.edu.gh,20,Female,300,Economics,3.62,5,0,66.37,Debate,Yes,
+UG1133,Abena Annan,student133@ug.edu.gh,19,M,200,Statistics,1.92,6,5,84.2,Football,Y,0508238320
+UG1134,Kofi Boateng,student134@ug.edu.gh,23,M,200,Economics,2.12,5,,72.72,Coding,no,0509773776
+UG1135,Abena Nkrumah,student135@ug.edu.gh,24,M,200,Statistics,2.73,5,7,94.66,Football,no,0509721139
+UG1136,Kojo Annan,student136@ug.edu.gh,20,female,200,Economics,3.49,6,5,99.73,None,Y,0504839711
+UG1137,Kwame Annan,student137@ug.edu.gh,18,Other,200,Statistics,2.98,7,2,90.1,Football,no,0503503882
+UG1138,Ama Owusu,student138@ug.edu.gh,26,M,300,Actuarial Science,2.83,,7,63.62,Drama,no,0509508671
+UG1139,Kwame Owusu,student139@ug.edu.gh,19,Male,300,Mathematics,3.67,9,,71.55,None,no,0501363057
+UG1140,Esi Asare,student140@ug.edu.gh,17,female,200,Computer Science,4.08,9,0,64.36,Drama Club,N,0502689374
+UG1141,Esi Boateng,student141@ug.edu.gh,24,F,400,Economics,3.34,,,86.02,Coding,No,0506040487
+UG1142,Kwame Asare,student142@ug.edu.gh,19,Male,100,Mathematics,2.69,5,5,90.61,Drama,Y,0509070640
+UG1143,Yaw Asare,student143@ug.edu.gh,26,Male,200,Computer Science,2.79,5,5,97.03,Drama Club,no,0503355697
+UG1144,Yaw Asare,student144@ug.edu.gh,23,M,400,Computer Science,2.36,7,3,77.53,Football,N,0506498297
+UG1145,Kwame Mensah,,26,F,100,Statistics,3.05,8,0,96.06,None,Y,0503322491
+UG1146,Kojo Annan,student146@ug.edu.gh,21,F,200,Actuarial Science,2.19,6,7,95.12,Coding,yes,0505380122
+UG1147,Akosua Annan,student147@ug.edu.gh,26,female,200,Actuarial Science,3.28,5,1,72.69,Drama,yes,0505526591
+UG1148,Kwame Asare,student148@ug.edu.gh,21,F,300,Mathematics,4.0,9,0,94.76,Drama Club,no,0504765603
+UG1149,Kojo Owusu,student149@ug.edu.gh,23,Other,100,Actuarial Science,3.36,7,1,75.03,Drama Club,N,0509694709
+UG1150,Ama Nkrumah,student150@ug.edu.gh,25,M,100,Economics,2.77,6,0,71.87,Coding,N,
+UG1151,Abena Asare,student151@ug.edu.gh,21,F,400,Actuarial Science,3.26,7,0,85.96,Coding Club,Y,0501742333
+UG1152,Kofi Owusu,student152@ug.edu.gh,17,female,300,Mathematics,3.81,6,,73.14,Football,Y,0504199194
+UG1153,Abena Mensah,student153@ug.edu.gh,26,Other,300,Actuarial Science,3.79,6,0,85.21,Coding,N,0509847667
+UG1154,Esi Owusu,student154@ug.edu.gh,26,Female,300,Economics,2.5,,3,84.39,Drama Club,Y,
+UG1155,Esi Nkrumah,student155@ug.edu.gh,17,Female,300,Statistics,3.26,5,5,82.54,Debate,N,0507751117
+UG1156,Akosua Mensah,student156@ug.edu.gh,18,Other,100,Mathematics,2.92,7,6,75.22,Drama,No,0502935966
+UG1157,Akosua Owusu,student157@ug.edu.gh,22,female,100,Statistics,3.4,7,1,81.94,Coding,N,0508997039
+UG1158,Esi Annan,student158@ug.edu.gh,25,Other,200,Statistics,3.19,,5,83.86,Coding Club,yes,
+UG1159,Akosua Nkrumah,student159@ug.edu.gh,24,M,200,Statistics,1.82,9,6,81.83,Drama Club,Y,0505380150
+UG1160,Kwame Annan,student160@ug.edu.gh,21,M,300,Computer Science,2.83,9,1,77.78,Football,N,0501717067
+UG1161,Kofi Asare,student161@ug.edu.gh,17,Female,300,Computer Science,3.1,5,1,60.59,Drama Club,N,0502964106
+UG1162,Ama Nkrumah,student162@ug.edu.gh,23,F,300,Statistics,2.28,5,6,83.48,Football,Y,0503255612
+UG1163,Yaw Nkrumah,student163@ug.edu.gh,21,female,200,Mathematics,3.29,8,0,66.74,Coding,No,0508919361
+UG1164,Esi Boateng,student164@ug.edu.gh,22,Female,400,Economics,2.24,,7,85.7,Football,No,0506417998
+UG1165,Yaw Annan,student165@ug.edu.gh,23,F,400,Economics,2.6,9,2,90.37,None,Y,0509879455
+UG1166,Ama Annan,student166@ug.edu.gh,19,F,200,Actuarial Science,3.67,6,5,80.02,None,Yes,0506348236
+UG1167,Akosua Owusu,student167@ug.edu.gh,26,M,200,Mathematics,2.56,7,,81.69,None,Y,0503524093
+UG1168,Esi Owusu,,19,Male,200,Computer Science,3.29,5,5,98.06,Coding Club,Y,
+UG1169,Kwame Annan,student169@ug.edu.gh,21,Male,200,Statistics,2.12,7,,93.89,Coding Club,No,
+UG1170,Ama Annan,student170@ug.edu.gh,22,Other,200,Actuarial Science,4.04,7,6,96.57,Debate,No,0508301376
+UG1171,Yaw Owusu,,25,M,200,Economics,2.85,8,,92.55,Coding Club,Y,0501386980
+UG1172,Kwame Asare,student172@ug.edu.gh,21,F,300,Computer Science,3.05,9,1,64.36,Coding,Y,0504287421
+UG1173,Kofi Nkrumah,student173@ug.edu.gh,17,female,300,Computer Science,3.09,5,7,65.96,Drama Club,Y,0506156148
+UG1174,Abena Nkrumah,student174@ug.edu.gh,20,Male,300,Statistics,3.3,7,7,81.06,Drama Club,No,0507932387
+UG1175,Kojo Mensah,student175@ug.edu.gh,21,F,300,Economics,2.24,5,1,69.84,Debate,Y,0502308812
+UG1176,Kofi Owusu,student176@ug.edu.gh,26,Male,200,Mathematics,3.0,6,3,79.07,Coding Club,Y,0509201525
+UG1177,Kwame Mensah,student177@ug.edu.gh,26,Male,400,Computer Science,2.67,8,6,75.77,Football,no,0503669079
+UG1178,Esi Annan,student178@ug.edu.gh,21,Male,100,Statistics,2.16,6,3,81.98,Debate,Yes,0509602135
+UG1179,Kojo Boateng,student179@ug.edu.gh,23,female,200,Mathematics,3.49,5,3,89.88,Football,yes,
+UG1180,Kojo Mensah,student180@ug.edu.gh,20,M,100,Economics,2.82,5,5,88.62,Football,Yes,0508617481
+UG1181,Ama Boateng,student181@ug.edu.gh,17,female,400,Computer Science,3.12,9,5,80.85,Drama,no,0506546517
+UG1182,Kojo Boateng,student182@ug.edu.gh,21,Female,300,Mathematics,3.09,7,2,92.9,Drama Club,yes,0504450894
+UG1183,Abena Annan,student183@ug.edu.gh,23,F,400,Mathematics,2.83,7,,77.23,None,Y,0503463378
+UG1184,Ama Boateng,student184@ug.edu.gh,26,M,200,Mathematics,3.99,6,1,95.87,Coding Club,no,0506049500
+UG1185,Ama Asare,student185@ug.edu.gh,26,M,300,Computer Science,2.98,8,5,62.85,Football,Y,0502129650
+UG1186,Ama Nkrumah,student186@ug.edu.gh,22,M,200,Computer Science,2.22,,6,98.19,Drama,No,0509160153
+UG1187,Abena Annan,student187@ug.edu.gh,21,M,300,Actuarial Science,2.8,7,,86.19,Drama Club,N,0503367456
+UG1188,Abena Annan,student188@ug.edu.gh,20,female,100,Economics,3.25,9,2,75.2,None,no,0504295306
+UG1189,Yaw Asare,student189@ug.edu.gh,18,M,100,Statistics,3.27,6,2,67.89,Football,No,0508756462
+UG1190,Kojo Owusu,student190@ug.edu.gh,20,Other,100,Mathematics,2.46,6,6,79.17,Football,no,0506130442
+UG1191,Abena Nkrumah,student191@ug.edu.gh,26,F,400,Actuarial Science,3.46,,3,67.78,Debate,no,0503562757
+UG1192,Kwame Annan,student192@ug.edu.gh,26,M,200,Statistics,2.12,9,7,66.65,Debate,No,0501341941
+UG1193,Abena Boateng,student193@ug.edu.gh,19,F,400,Actuarial Science,3.57,8,6,84.69,Drama Club,yes,0508172862
+UG1194,Kwame Owusu,student194@ug.edu.gh,26,Other,100,Computer Science,2.34,9,4,80.92,None,Yes,0504427672
+UG1195,Ama Nkrumah,student195@ug.edu.gh,17,Other,200,Mathematics,2.89,8,6,86.8,Football,Y,0501693418
+UG1196,Kwame Annan,student196@ug.edu.gh,24,F,100,Statistics,3.53,9,2,97.18,Drama Club,no,0502033520
+UG1197,Kojo Asare,student197@ug.edu.gh,21,Male,400,Statistics,3.06,9,1,81.29,Drama Club,Y,0508787770
+UG1198,Yaw Asare,student198@ug.edu.gh,20,Female,400,Statistics,3.41,5,5,83.24,Coding,N,
+UG1199,Abena Asare,student199@ug.edu.gh,24,Male,400,Statistics,3.31,6,1,63.59,Coding Club,No,
